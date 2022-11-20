@@ -1,5 +1,5 @@
 ## Todo,s List
-Todo,s list ia amazing react app that stores your notes in the local storage of your browser. It is developed by Sajag Subedi. This Web app is begginer friendly and easy to use.
+Todo,s list is a amazing react app that stores your notes in the local storage of your browser. It is developed by Sajag Subedi. This Web app is begginer friendly and easy to use.
 
 ### Getting Started
 - Hit npm i
