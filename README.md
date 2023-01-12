@@ -6,4 +6,4 @@ Todo,s list is a amazing react app that stores your notes in the local storage o
 - Hit npm run dev
 
 ### Viewing it 
-You can visit to [https://sajagsubedi.github.io/Todo-s-List/](https://sajagsubedi.github.io/Todo-s-List/) or [https://keepyourtodo.netlify.app/](https://keepyourtodo.netlify.app/) to view it live.
+You can visit to [https://sajagsubedi.github.io/Todo-s-List/](https://sajagsubed [https://keepyourtodo.netlify.app/](https://keepyourtodo.netlify.app/) to view it live.
