@@ -52,6 +52,9 @@ The application will be accessible at http://localhost:5173. Open this URL in yo
 - React.js
 - Vite
 - Tailwind CSS
+## Demo
+
+Check out the live demo of Textutils: [https://keepyourtodo.netlify.app](https://keepyourtodo.netlify.app)
 
 ## Acknowledgments
 
